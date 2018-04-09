@@ -1,0 +1,12 @@
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\资产管理系统.exe.config
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.Properties.Resources.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.csproj.GenerateResource.Cache
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\资产管理系统.exe
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\资产管理系统.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.exe
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.frmBase.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.frmLogin.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.frmStart.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.frmMain.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.csprojResolveAssemblyReference.cache

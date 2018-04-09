@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "资产管理系统UI", "资产管理系统\资产管理系统UI.csproj", "{EC039D37-51FE-4CE6-BAFA-42A2F671B8D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBUtility", "DBUtility\DBUtility.csproj", "{011BACE8-D175-4A95-A006-FEBCC89105AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "资产管理系统DAL", "DAL\资产管理系统DAL.csproj", "{D69B9438-8BBF-4323-944E-FB5859EE0E38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "资产管理系统BLL", "BLL\资产管理系统BLL.csproj", "{BB593D86-FABC-4C2A-8EB1-DE6EC62A01EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "资产管理系统Model", "Model\资产管理系统Model.csproj", "{FE091772-A111-4573-8F50-7FEFCF9FBC92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC039D37-51FE-4CE6-BAFA-42A2F671B8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC039D37-51FE-4CE6-BAFA-42A2F671B8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC039D37-51FE-4CE6-BAFA-42A2F671B8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC039D37-51FE-4CE6-BAFA-42A2F671B8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011BACE8-D175-4A95-A006-FEBCC89105AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011BACE8-D175-4A95-A006-FEBCC89105AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011BACE8-D175-4A95-A006-FEBCC89105AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011BACE8-D175-4A95-A006-FEBCC89105AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D69B9438-8BBF-4323-944E-FB5859EE0E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69B9438-8BBF-4323-944E-FB5859EE0E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69B9438-8BBF-4323-944E-FB5859EE0E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69B9438-8BBF-4323-944E-FB5859EE0E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB593D86-FABC-4C2A-8EB1-DE6EC62A01EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB593D86-FABC-4C2A-8EB1-DE6EC62A01EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB593D86-FABC-4C2A-8EB1-DE6EC62A01EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB593D86-FABC-4C2A-8EB1-DE6EC62A01EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE091772-A111-4573-8F50-7FEFCF9FBC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE091772-A111-4573-8F50-7FEFCF9FBC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE091772-A111-4573-8F50-7FEFCF9FBC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE091772-A111-4573-8F50-7FEFCF9FBC92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

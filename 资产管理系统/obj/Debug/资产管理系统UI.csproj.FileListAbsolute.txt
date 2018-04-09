@@ -1,0 +1,48 @@
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统UI.csprojResolveAssemblyReference.cache
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.frmBase.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.frmStart.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统UI.csproj.GenerateResource.Cache
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\资产管理系统UI.exe
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\资产管理系统UI.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.Properties.Resources.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统UI.exe
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统UI.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.frmLogin.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\资产管理系统BLL.dll
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\资产管理系统Model.dll
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\资产管理系统DAL.dll
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\DBUtility.dll
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\资产管理系统BLL.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\资产管理系统Model.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\资产管理系统DAL.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\DBUtility.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\bin\Debug\资产管理系统UI.exe.config
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.frmMain.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.frmKeeper.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.frmDepartment.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.frmEmployee.resources
+D:\Visual_Studio_2010_Workspace\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.frmBaseInfo.resources
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\bin\Debug\资产管理系统UI.exe.config
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统UI.exe
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统UI.pdb
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\bin\Debug\资产管理系统UI.exe
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\bin\Debug\资产管理系统UI.pdb
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\bin\Debug\资产管理系统BLL.dll
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\bin\Debug\资产管理系统Model.dll
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\bin\Debug\资产管理系统DAL.dll
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\bin\Debug\DBUtility.dll
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\bin\Debug\资产管理系统BLL.pdb
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\bin\Debug\资产管理系统Model.pdb
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\bin\Debug\资产管理系统DAL.pdb
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\bin\Debug\DBUtility.pdb
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统UI.csprojResolveAssemblyReference.cache
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统.frmBase.resources
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.frmBaseInfo.resources
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.frmDepartment.resources
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.frmEmployee.resources
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.frmKeeper.resources
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.frmLogin.resources
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.frmMain.resources
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统.frmStart.resources
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统.UI.Properties.Resources.resources
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\资产管理系统\obj\Debug\资产管理系统UI.csproj.GenerateResource.Cache

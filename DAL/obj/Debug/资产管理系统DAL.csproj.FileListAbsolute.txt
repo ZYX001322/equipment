@@ -1,0 +1,18 @@
+D:\Visual_Studio_2010_Workspace\资产管理系统\DAL\bin\Debug\资产管理系统DAL.dll
+D:\Visual_Studio_2010_Workspace\资产管理系统\DAL\bin\Debug\资产管理系统DAL.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\DAL\obj\Debug\资产管理系统DAL.dll
+D:\Visual_Studio_2010_Workspace\资产管理系统\DAL\obj\Debug\资产管理系统DAL.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\DAL\bin\Debug\DBUtility.dll
+D:\Visual_Studio_2010_Workspace\资产管理系统\DAL\bin\Debug\资产管理系统Model.dll
+D:\Visual_Studio_2010_Workspace\资产管理系统\DAL\bin\Debug\DBUtility.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\DAL\bin\Debug\资产管理系统Model.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\DAL\obj\Debug\资产管理系统DAL.csprojResolveAssemblyReference.cache
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\DAL\bin\Debug\资产管理系统DAL.dll
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\DAL\bin\Debug\资产管理系统DAL.pdb
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\DAL\bin\Debug\DBUtility.dll
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\DAL\bin\Debug\资产管理系统Model.dll
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\DAL\bin\Debug\DBUtility.pdb
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\DAL\bin\Debug\资产管理系统Model.pdb
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\DAL\obj\Debug\资产管理系统DAL.csprojResolveAssemblyReference.cache
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\DAL\obj\Debug\资产管理系统DAL.dll
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\DAL\obj\Debug\资产管理系统DAL.pdb

@@ -1,0 +1,10 @@
+D:\Visual_Studio_2010_Workspace\资产管理系统\Model\bin\Debug\资产管理系统Model.dll
+D:\Visual_Studio_2010_Workspace\资产管理系统\Model\bin\Debug\资产管理系统Model.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\Model\obj\Debug\资产管理系统Model.dll
+D:\Visual_Studio_2010_Workspace\资产管理系统\Model\obj\Debug\资产管理系统Model.pdb
+D:\Visual_Studio_2010_Workspace\资产管理系统\Model\obj\Debug\资产管理系统Model.csprojResolveAssemblyReference.cache
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\Model\bin\Debug\资产管理系统Model.dll
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\Model\bin\Debug\资产管理系统Model.pdb
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\Model\obj\Debug\资产管理系统Model.csprojResolveAssemblyReference.cache
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\Model\obj\Debug\资产管理系统Model.dll
+E:\database\数据库系统 课程设计\数据库系统 课程设计\资产管理系统\Model\obj\Debug\资产管理系统Model.pdb
